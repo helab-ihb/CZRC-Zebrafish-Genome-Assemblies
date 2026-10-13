@@ -12,7 +12,7 @@ This repository provides high-contiguity, gapless chromosome-scale genome assemb
 
 2. Available files
   The following files are provided for each genome assembly:
-  Genome sequences: Compressed FASTA files.
+  Genome sequences: FASTA files.
   Gene annotations: GFF files.
   File integrity: MD5 checksums for verifying downloaded files.
 
